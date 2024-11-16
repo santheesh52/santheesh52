@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santheesh S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **B. Tech Information Technology**
+- 🔭 I’m currently working on **InGage Technologies Pvt Ltd**
 
 - 🌱 I’m currently learning **Web Development**
 
